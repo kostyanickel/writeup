@@ -13,6 +13,7 @@
 
 Как говорится в PoC - нужно перейти на страницу /inc/mysql_backup
 Так как директория SweetRice на хосте расположена в /content/ - переходим в /content/inc/mysql_backup
+
 ![image](https://github.com/user-attachments/assets/9b76e0f4-c186-4689-a8e7-8ca0c0132850)
 
 Скачиваем файл и проверяем на наличие чувствительной информации. Находим креды manager:Password123
